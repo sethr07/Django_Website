@@ -1,0 +1,40 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__
+
+# Django generated files
+*.db
+*.sqlite3
+/staticfiles/
+/media/
+
+# Logs and temporary files
+logs/
+*.log
+*.pot
+*.pyc
+local_settings.py
+.vscode
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Development and IDE-specific files
+*.env
+*.env.*
+.idea/
+*.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.cache
+*.vs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
